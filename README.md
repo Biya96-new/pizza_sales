@@ -1,5 +1,7 @@
 This project was done to analyse the sales of pizza over a period of time. So that the company can decide,what changes are to be brought about in order to improve the sales.
-MYSQL was used to query the required data and a interactive Power BI report was made.
+MYSQL was used to query the required data and a interactive Power BI dash board was craeted.
+
+A problems was encountered while loading the data on MYSQL due to the data type issue of date column.It was not getting imported even after creating the table and specifying the data type.So after a research 
 
 KPI’s Requirement:
 1.	Total Revenue:The sum of the total price of all the pizza orders.
